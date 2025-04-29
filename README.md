@@ -1,8 +1,6 @@
 # 🐍 Hangman Game  
 
-Hello!  
-
-I am happy to share with you my first real project using Python. This is a simple Hangman game that I did for fun and to practice the basics of Python programming.  
+Hello! I am happy to share with you my first real project using Python. This is a simple Hangman game that I did for fun and to practice the basics of Python programming.  
 
 While building it, I got to practice things like file handling, loops and conditionals, user input, string manipulation, and getting random choices from a set.  
 
